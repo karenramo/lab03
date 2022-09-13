@@ -1,0 +1,17 @@
+h2{
+    text-align: left;
+    color: rgba(102, 56, 18, 0.771);
+}
+p{
+    text-indent: 5px;
+    color: darkgrey;
+}
+.info1{
+    
+    color: gray;
+}
+td{
+    text-indent: 5px;
+    width: 100px;
+    height: 10px;
+  }
